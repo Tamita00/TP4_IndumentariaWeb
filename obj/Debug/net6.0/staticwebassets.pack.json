@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP4.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias1.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias10.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias10.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias2.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias3.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias4.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias4.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias5.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias5.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias6.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias6.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias7.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias7.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias8.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias8.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\medias\\medias9.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\medias\\medias9.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera1.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera10.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera10.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera2.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera3.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera4.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera4.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera5.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera5.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera6.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera6.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera7.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera7.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera8.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera8.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\remeras\\remera9.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\remeras\\remera9.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short1.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short10.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short10.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short2.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short3.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short4.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short4.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short5.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short5.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short6.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short6.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short7.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short7.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short8.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short8.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\Imagenes\\shorts\\short9.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\shorts\\short9.jpg"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\PROG\\2023\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\TP4_IndumentariaWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP4.props",
+      "PackagePath": "build\\TP4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP4.props",
+      "PackagePath": "buildMultiTargeting\\TP4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP4.props",
+      "PackagePath": "buildTransitive\\TP4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

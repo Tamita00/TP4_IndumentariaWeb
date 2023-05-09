@@ -1,0 +1,30 @@
+<h3>Selección de Indumentaria</h3>
+
+<form action = '@Url.Action("GuardarIndumentaria")'>
+
+    @foreach (string item in ViewBag.listaEquipos)
+    {
+        <b>@(item + "     -     ") </b>
+    }
+<input type = "number" name = "Equipo" required>
+<br> <br>
+@foreach (string item in ViewBag.listaRemeras)
+{
+    <img src = "/Imagenes/remeras/@item" alt ="Foto remera" width = "100px">
+}
+<input type="number" name = "Remera"  required>
+<br> <br>
+@foreach (string item in ViewBag.listaPantalones)
+{
+    <img src = "/Imagenes/shorts/@item" alt ="Foto short" width = "100px">
+}
+<input type="number" name = "Pantalon"  required>
+<br> <br>
+@foreach (string item in ViewBag.listaMedias)
+{
+    <img src = "/Imagenes/medias/@item" alt ="Foto medias" width = "100px">
+}
+<input type="number" name = "Media" required>
+<br><br>
+<input type="submit" value="Subir">
+</form>

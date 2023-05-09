@@ -11,7 +11,32 @@ html {
 }
 
 body {
+  background-color: rgb(193, 226, 248);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
   margin: 20px 60px 0px 20px;
+  color:rgb(3, 3, 3);
+}
+
+a:link, a:visited {
+  background-color: #79a4f5;
+  text-decoration:none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+a:hover, a:active {
+  background-color: rgb(175, 209, 240);
+  border-radius: 5px;
+}
+
+img{
+  border: 5px solid rgb(255, 255, 255);
+  padding: 3px;
 }
 
 footer {
