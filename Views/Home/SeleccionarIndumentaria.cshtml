@@ -5,26 +5,27 @@
     @foreach (string item in ViewBag.listaEquipos)
     {
         <b>@(item + "     -     ") </b>
+        
     }
-<input type = "number" name = "Equipo" required>
+<input type = "number" name = "Equipo" min = "1" max = "10" required>
 <br> <br>
 @foreach (string item in ViewBag.listaRemeras)
 {
     <img src = "/Imagenes/remeras/@item" alt ="Foto remera" width = "100px">
 }
-<input type="number" name = "Remera"  required>
+<input type="number" name = "Remera" min = "1" max = "10" required>
 <br> <br>
 @foreach (string item in ViewBag.listaPantalones)
 {
     <img src = "/Imagenes/shorts/@item" alt ="Foto short" width = "100px">
 }
-<input type="number" name = "Pantalon"  required>
+<input type="number" name = "Pantalon"  min = "1" max = "10" required>
 <br> <br>
 @foreach (string item in ViewBag.listaMedias)
 {
     <img src = "/Imagenes/medias/@item" alt ="Foto medias" width = "100px">
 }
-<input type="number" name = "Media" required>
+<input type="number" name = "Media" min = "1" max = "10" required>
 <br><br>
 <input type="submit" value="Subir">
 </form>
